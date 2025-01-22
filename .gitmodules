@@ -1,3 +1,6 @@
 [submodule "angular-bibliotex"]
 	path = angular-bibliotex
 	url = git@github.com:GabrielFelipeS/angular-bibliotex.git
+[submodule "catalog-bibliotex"]
+	path = catalog-bibliotex
+	url = git@github.com:GabrielFelipeS/catalog-bibliotex.git
