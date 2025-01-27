@@ -1,0 +1,13 @@
+services:
+
+  kafka:
+    image: apache/kafka-native:3.9.0
+    container_name: kafka
+    ports:
+      - "9092:9092"
+    networks:
+      - kafka-net
+
+networks:
+  kafka-net:
+    driver: bridge
