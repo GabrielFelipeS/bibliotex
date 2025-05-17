@@ -275,7 +275,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jUtacynJia10ljB4ecaA-4" value="Public Network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="244.95" y="250" width="100" height="30" as="geometry" />
+          <mxGeometry x="330" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jUtacynJia10ljB4ecaA-5" value="Private&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Network&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingRight=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="388" y="250" width="110" height="30" as="geometry" />
