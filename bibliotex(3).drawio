@@ -249,18 +249,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iekF4vclHxJ5uKwz08jP" name="Página-2">
-    <mxGraphModel dx="2037" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xee_cRsTL304oSXh2gld-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="330" y="190" width="1200" height="1120" as="geometry" />
+          <mxGeometry x="358.22" y="190" width="1200" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="jUtacynJia10ljB4ecaA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="406.5" y="280" width="1033.5" height="820" as="geometry" />
         </mxCell>
         <mxCell id="jUtacynJia10ljB4ecaA-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dg_database_gateway;" parent="1" vertex="1">
-          <mxGeometry x="320.1" y="557.55" width="39.900000000000006" height="54.900000000000006" as="geometry" />
+          <mxGeometry x="320.1" y="560" width="38.12" height="52.45" as="geometry" />
         </mxCell>
         <mxCell id="jUtacynJia10ljB4ecaA-2" value="Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="612.4499999999999" width="70" height="30" as="geometry" />
